@@ -17,4 +17,4 @@ O primeiro possui 3 colunas, com id, data e total de clientes que usaram algum t
 
 O segundo possui 2 colunas, com id e data para os anos de 2019 e 2020. Será nosso dataset de teste.
 
-Fornecido pela Data Science Academy (https://www.datascienceacademy.com.br) para alunos do Curso de Formação Cientista de Dados
+>Fornecido pela Data Science Academy (https://www.datascienceacademy.com.br) para alunos do Curso de Formação Cientista de Dados
